@@ -1,6 +1,13 @@
 /* Our CSS file. */
 
 
+.container, .content {
+width: 100%;
+height: 100%;
+}
+/* Our CSS file. */
+
+
 *{
     margin: 0;
     padding: 0;
